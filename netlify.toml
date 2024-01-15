@@ -1,0 +1,3 @@
+[build]
+  command = "python chat.py"
+  publish = "templates/"
