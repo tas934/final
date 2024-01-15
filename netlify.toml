@@ -1,3 +1,4 @@
 [build]
-  command = "python chat.py"
-  publish = "templates/"
+command = "python chat.py"
+publish = "C:\COURS\L2\S1\Complémentaire\info"
+
